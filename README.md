@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Ahmed Nagy - Senior Software Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/ahmed-nagy-415580153)
@@ -15,17 +13,6 @@ I have expertise in the following areas:
 - Native mobile app development (iOS and Android)
 - DevOps and CI/CD
 
-## Projects
-Here are some notable projects that you will find in this repository:
-
-- **Project 1**: [Description of Project 1]
-- **Project 2**: [Description of Project 2]
-- **Project 3**: [Description of Project 3]
-
-Each project is organized in its own directory, containing the necessary code, documentation, and any additional resources.
-
-## Code Samples
-In addition to completing projects, this repository also includes various code samples that demonstrate specific programming techniques, algorithms, or concepts. These samples can serve as a reference or learning material for fellow developers.
 
 ## Contributions and Feedback
 I welcome contributions and feedback on any of the projects or code samples in this repository. If you find a bug, have a suggestion, or would like to contribute improvements, feel free to open an issue or submit a pull request. Your contributions are highly appreciated!
@@ -34,5 +21,3 @@ I welcome contributions and feedback on any of the projects or code samples in t
 If you would like to get in touch with me or learn more about my work, please feel free to connect with me on LinkedIn:
 
 [LinkedIn Profile](https://www.linkedin.com/in/ahmed-nagy-415580153)
-
-Thank you for visiting my GitHub repository!
